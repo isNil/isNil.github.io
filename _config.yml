@@ -1,0 +1,31 @@
+# Site settings
+title: Rui Li
+email: "isNil@foxmail.com"
+description: "Rui Li's  blog."
+baseurl: ""
+#url: "http://www.codecate.com"
+permalink: /:year/:title
+
+
+# Social account
+twitter:  isNil
+# weibo:    ID
+github:   isNil
+codepen:  isNil
+# dribbble: username
+
+
+# Comment
+# disqus_shortname:
+
+
+# Google Analytics
+#google_analytics: UA-60830414-1
+
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
